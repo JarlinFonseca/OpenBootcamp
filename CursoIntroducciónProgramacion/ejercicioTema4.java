@@ -126,8 +126,5 @@ public class ejercicioTema4 {
             default -> "NO es una estación";
         };
           return mensajeEstacion;
-      }
-
-   
-    
+      }  
 }
