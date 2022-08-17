@@ -14,7 +14,7 @@ public class ejercicioTema3 {
        System.out.println("El resultado de la suma de los 3 valores es: "+resultadoSuma);
         
        //Segunda parte
-       Coche vehiculo = new Coche(0);
+       Coche vehiculo = new Coche(4);
        vehiculo.incrementarNumeroPuertas();
         System.out.println("El numero de puertas del coche es: "+vehiculo.numeroPuertas);
         
